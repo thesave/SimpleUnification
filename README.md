@@ -1,4 +1,4 @@
-A simple Java reference implementation of the Unification algorithm, inspired by the Unification Algoritm from [1].
+A simple Java reference implementation of the Unification algorithm, inspired by [1].
 
 This implementation supports an elementary language for type expressions.
 Elements of type expressions are:
