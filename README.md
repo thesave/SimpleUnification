@@ -16,7 +16,7 @@ To run it, you can execute the file `compile_and_run.sh` found in the root of th
 
 # Requirements
 
-Java 17
+Java JDK 17
 
 # References
 [1] Pierce, Benjamin C. Types and programming languages. MIT press, 2002.
